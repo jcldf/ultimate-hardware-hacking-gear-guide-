@@ -4,7 +4,7 @@ Welcome to the ultimate resource for hardware hacking enthusiasts! Download our 
 
 ## 📖 Download Now
 
-[Click here to download the e-zine](./your-ezine-file.pdf)
+[Click here to download the e-zine](https://www.juliodellaflora.com/_files/ugd/9b105c_9093266466844c149e4ced644812b1c4.pdf?index=true)
 
 ## About the E-Zine
 
