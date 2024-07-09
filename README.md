@@ -21,10 +21,6 @@ Don't miss out on this opportunity to enhance your skills and join a community o
 
 Stay updated with the latest news and exclusive content by following us:
 
-- [Telegram Channel](https://t.me/your-channel)
-- [Facebook Page](https://facebook.com/your-page)
-- [Twitter Profile](https://twitter.com/your-profile)
-
-## Contact
-
-For any questions or feedback, feel free to [contact us](mailto:your-email@example.com).
+- [Telegram Channel](https://t.me/hardwareHackingMarket)
+- [Instagram Profile](https://www.instagram.com/juliodellaflora/)
+- [Twitter Profile](https://x.com/jcldf)
