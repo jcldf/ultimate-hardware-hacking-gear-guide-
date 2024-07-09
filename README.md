@@ -3,7 +3,7 @@
 Welcome to the ultimate resource for hardware hacking enthusiasts! Download our FREE e-zine packed with over 170 pages of essential content, insider tips, and the latest trends.
 
 ## 📖 Download Now
-[![Intro GIF](./your-gif-file.gif)]([./your-ezine-file.pdf](https://www.juliodellaflora.com/_files/ugd/9b105c_9093266466844c149e4ced644812b1c4.pdf?index=true))
+[![Intro GIF](https://github.com/jcldf/ultimate-hardware-hacking-gear-guide-/blob/main/hackers%20toolbox.gif)]([./your-ezine-file.pdf](https://www.juliodellaflora.com/_files/ugd/9b105c_9093266466844c149e4ced644812b1c4.pdf?index=true))
 
 [Click here to download the e-zine](https://www.juliodellaflora.com/_files/ugd/9b105c_9093266466844c149e4ced644812b1c4.pdf?index=true)
 
