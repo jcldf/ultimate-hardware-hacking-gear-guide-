@@ -1,5 +1,7 @@
 # The Ultimate Hardware Hacking Gear Guide
 
+## Thank you for downloading the e-zine. I am collecting feedback, fixing the links, improving the translation, and giving due credit to the projects whose true owners I didn't know (I apologize for this). Gradually, I am improving the magazine, and I greatly appreciate your feedback! It is a bit challenging to release content in English since I live in Brazil and it is not my primary language, but with the help of researchers and the community, I am working to improve the magazine!
+
 Welcome to the ultimate resource for hardware hacking enthusiasts! Download our FREE e-zine packed with over 170 pages of essential content, insider tips, and the latest trends.
 
 ## 📖 Download Now
