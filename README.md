@@ -1,4 +1,4 @@
-# The Ultimate Hardware Hacking Gear Guide
+# Ultimate Hardware Hacking Gear Guide
 
 
 ### Thank you for downloading the e-zine. I am actively collecting feedback, fixing the links, improving the translations, and giving proper credit to the original creators of the projects (I apologize for any oversights). Gradually, I am enhancing the magazine, and your feedback is greatly appreciated! Releasing content in English is a bit challenging since I live in Brazil and it is not my primary language, but with the help of researchers and the community, I am dedicated to improving the magazine!
